@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.git/
+.gitignore
+*.md
+.env
+train_model.py
+telecom_churn.csv
