@@ -5,7 +5,7 @@ Core interview logic — question generation and answer evaluation
 import json
 import re
 from langchain_ollama import OllamaLLM
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from prompts import QUESTION_GENERATOR_PROMPT, ANSWER_EVALUATOR_PROMPT, FINAL_REPORT_PROMPT
 
 
