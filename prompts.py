@@ -4,7 +4,7 @@ All prompt templates for the AI Interview Simulator
 
 QUESTION_GENERATOR_PROMPT = """You are a senior technical interviewer at a top tech company.
 Generate ONE interview question for the role and difficulty specified.
-
+ 
 Role: {role}
 Difficulty: {difficulty}
 Topics already covered: {covered_topics}
