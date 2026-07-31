@@ -1,7 +1,7 @@
 """
 Role-specific question topics for the interview simulator
 """
-
+ 
 QUESTION_TOPICS = {
     "ML Engineer": {
         "Easy": [
