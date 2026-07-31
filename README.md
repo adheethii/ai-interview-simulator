@@ -8,7 +8,7 @@
 
 > A locally-running AI-powered interview simulator — practice technical interviews, get scored in real time, and receive detailed feedback to improve your answers.
 
----
+--- 
 
 ## 🎯 Why I Built This
 
